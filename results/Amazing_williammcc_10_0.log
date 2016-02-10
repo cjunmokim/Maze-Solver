@@ -1,0 +1,6631 @@
+williammcc, 57646, Fri Aug 28 22:27:37 2015
+
+*****************
+ Maze Width: 5
+ Maze Height: 5
+*****************
+
+The maze structure lives at: 0x1ab30a0
+
+=========================================
+AVATAR #0
+difficulty: 0
+IP_address: 129.170.213.200
+port: 57646
+log_file: Amazing_williammcc_10_0.log
+sockfd: 4
+total number of avatars: 10
+maze width: 5
+maze height: 5
+my pointer to the_maze: 0x1ab30a0
+=========================================
+
+=========================================
+AVATAR #8
+difficulty: 0
+IP_address: 129.170.213.200
+port: 57646
+log_file: Amazing_williammcc_10_0.log
+sockfd: 12
+total number of avatars: 10
+maze width: 5
+maze height: 5
+my pointer to the_maze: 0x1ab30a0
+=========================================
+
+=========================================
+AVATAR #2
+difficulty: 0
+IP_address: 129.170.213.200
+port: 57646
+log_file: Amazing_williammcc_10_0.log
+sockfd: 7
+total number of avatars: 10
+maze width: 5
+maze height: 5
+my pointer to the_maze: 0x1ab30a0
+=========================================
+
+=========================================
+AVATAR #3
+difficulty: 0
+IP_address: 129.170.213.200
+port: 57646
+log_file: Amazing_williammcc_10_0.log
+sockfd: 8
+total number of avatars: 10
+maze width: 5
+maze height: 5
+my pointer to the_maze: 0x1ab30a0
+=========================================
+
+=========================================
+AVATAR #4
+difficulty: 0
+IP_address: 129.170.213.200
+port: 57646
+log_file: Amazing_williammcc_10_0.log
+sockfd: 9
+total number of avatars: 10
+maze width: 5
+maze height: 5
+my pointer to the_maze: 0x1ab30a0
+=========================================
+
+=========================================
+AVATAR #5
+difficulty: 0
+IP_address: 129.170.213.200
+port: 57646
+log_file: Amazing_williammcc_10_0.log
+sockfd: 6
+total number of avatars: 10
+maze width: 5
+maze height: 5
+my pointer to the_maze: 0x1ab30a0
+=========================================
+
+=========================================
+AVATAR #6
+difficulty: 0
+IP_address: 129.170.213.200
+port: 57646
+log_file: Amazing_williammcc_10_0.log
+sockfd: 10
+total number of avatars: 10
+maze width: 5
+maze height: 5
+my pointer to the_maze: 0x1ab30a0
+=========================================
+
+=========================================
+AVATAR #7
+difficulty: 0
+IP_address: 129.170.213.200
+port: 57646
+log_file: Amazing_williammcc_10_0.log
+sockfd: 11
+total number of avatars: 10
+maze width: 5
+maze height: 5
+my pointer to the_maze: 0x1ab30a0
+=========================================
+
+=========================================
+AVATAR #1
+difficulty: 0
+IP_address: 129.170.213.200
+port: 57646
+log_file: Amazing_williammcc_10_0.log
+sockfd: 5
+total number of avatars: 10
+maze width: 5
+maze height: 5
+my pointer to the_maze: 0x1ab30a0
+=========================================
+
+=========================================
+AVATAR #9
+difficulty: 0
+IP_address: 129.170.213.200
+port: 57646
+log_file: Amazing_williammcc_10_0.log
+sockfd: 13
+total number of avatars: 10
+maze width: 5
+maze height: 5
+my pointer to the_maze: 0x1ab30a0
+=========================================
+
+[avatar #2] Successfully connected with the server and received the first TURN message
+[avatar #2] First Turn ID (should be zero): 0
+[avatar #2] Initial Coordinates: x=0 y=4
+
+[avatar #3] Successfully connected with the server and received the first TURN message
+[avatar #3] First Turn ID (should be zero): 0
+[avatar #3] Initial Coordinates: x=2 y=2
+
+[avatar #1] Successfully connected with the server and received the first TURN message
+[avatar #1] First Turn ID (should be zero): 0
+[avatar #1] Initial Coordinates: x=3 y=2
+
+[avatar #0] Successfully connected with the server and received the first TURN message
+[avatar #0] First Turn ID (should be zero): 0
+[avatar #0] Initial Coordinates: x=0 y=2
+
+[avatar #4] Successfully connected with the server and received the first TURN message
+[avatar #4] First Turn ID (should be zero): 0
+[avatar #4] Initial Coordinates: x=3 y=4
+
+[avatar #6] Successfully connected with the server and received the first TURN message
+[avatar #6] First Turn ID (should be zero): 0
+[avatar #6] Initial Coordinates: x=1 y=1
+
+[avatar #7] Successfully connected with the server and received the first TURN message
+[avatar #7] First Turn ID (should be zero): 0
+[avatar #7] Initial Coordinates: x=2 y=4
+
+[avatar #5] Successfully connected with the server and received the first TURN message
+[avatar #5] First Turn ID (should be zero): 0
+[avatar #5] Initial Coordinates: x=2 y=3
+
+[avatar #8] Successfully connected with the server and received the first TURN message
+[avatar #8] First Turn ID (should be zero): 0
+[avatar #8] Initial Coordinates: x=3 y=1
+
+[avatar #9] Successfully connected with the server and received the first TURN message
+[avatar #9] First Turn ID (should be zero): 0
+[avatar #9] Initial Coordinates: x=4 y=4
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=2 y=2
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=3 y=4
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=3 y=4
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=2 y=2
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=4
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=4 y=4
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=4 y=4
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=4 y=4
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=2 y=2
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=3 y=4
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=3 y=4
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=2 y=2
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=4 y=4
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=4 y=4
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=3 y=4
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=4 y=4
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=4
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=4
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=4
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=4
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=4 y=4
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=4 y=4
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=4
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=1 y=4
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=4 y=4
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=4 y=4
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=1 y=4
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=1 y=4
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=1 y=4
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=1 y=4
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=1 y=4
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=1 y=4
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=3
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=1 y=4
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=4
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=3 y=1
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=3 y=2
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=0 y=4
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=4 y=2
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=4
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=0 y=4
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=4
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=4
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=4
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=4
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=4
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=0 y=4
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=0 y=4
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=3 y=2
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=3 y=2
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=3 y=2
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=3 y=2
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=4 y=2
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=0 y=4
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=3 y=2
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=4
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=0 y=4
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=4 y=2
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=1 y=4
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=0 y=4
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=0 y=4
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=4 y=2
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=3 y=2
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=3 y=2
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=3 y=2
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=0 y=4
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=4 y=2
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=3 y=2
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=0 y=4
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=4 y=2
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=3 y=4
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=4 y=2
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=1 y=4
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=1 y=4
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=1 y=4
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=0 y=4
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=4 y=2
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=4 y=2
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=4 y=2
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=4 y=2
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=1 y=4
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=1 y=4
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=4 y=3
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=4 y=2
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=4 y=2
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=4 y=2
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=1 y=4
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=4 y=2
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=4 y=3
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=4 y=3
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=4 y=2
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=4 y=3
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=0 y=0
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=4 y=3
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=4 y=2
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=4 y=2
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=4 y=2
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=4 y=3
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=1 y=3
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=4 y=2
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=0 y=3
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=4 y=3
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=4 y=3
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=4 y=3
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=4 y=3
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=1 y=3
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=3 y=3
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=0 y=3
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=0 y=3
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=0 y=3
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=0 y=3
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=1 y=3
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=1 y=3
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=3 y=3
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=3 y=3
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=3 y=3
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=4 y=3
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=4 y=3
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=4 y=3
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=4 y=3
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=4 y=3
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=1 y=3
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=4 y=3
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=4 y=3
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=0 y=3
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=0 y=1
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=0 y=3
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=4 y=3
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=0 y=3
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=0 y=3
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=4 y=3
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=3 y=3
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=3 y=3
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=0 y=3
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=0 y=2
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=3 y=3
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=3 y=3
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=3 y=3
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=3 y=3
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=3 y=3
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=0 y=3
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=3 y=3
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=0 y=2
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=0 y=2
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=0 y=2
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=3 y=3
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=3 y=3
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=0 y=3
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=0 y=3
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=0 y=2
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=3 y=3
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=0 y=2
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=3 y=3
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=0 y=4
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=0 y=3
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=0 y=2
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=0 y=2
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=3 y=3
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=3 y=3
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=0 y=2
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=3 y=3
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=0 y=2
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=3 y=3
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=0 y=4
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=0 y=4
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=0 y=4
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=0 y=4
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=0 y=4
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=0 y=2
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=0 y=2
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=0 y=2
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=0 y=2
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=1 y=2
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=1 y=2
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=1 y=2
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=2 y=3
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=2 y=3
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=2 y=3
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=0 y=2
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=0 y=2
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=0 y=2
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=2 y=3
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=1 y=2
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=1 y=2
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=0 y=4
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=0 y=4
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=0 y=4
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=0 y=4
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=0 y=2
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=1 y=2
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=2 y=3
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=1 y=2
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=2 y=3
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=0 y=2
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=1 y=2
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=1 y=1
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=1 y=2
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=2 y=3
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=2 y=3
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=1 y=2
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=1 y=0
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=2
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=1 y=0
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=1 y=0
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=1 y=0
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=1 y=2
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=1 y=2
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=1 y=2
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=1 y=2
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=2
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=1 y=2
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=1 y=2
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=1 y=0
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=1 y=0
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=2
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=2
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=2
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=2 y=4
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=2 y=4
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=4 y=4
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=2
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=1 y=2
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=1 y=2
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=1 y=0
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=2 y=4
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=2 y=4
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=2
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=2
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=2 y=4
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=2 y=4
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=1 y=2
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=2 y=4
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=2 y=4
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=2 y=4
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=2 y=4
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=2
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=1 y=0
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=1 y=0
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=1 y=0
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=2
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=2
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=2 y=0
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=2 y=4
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=4 y=4
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=4 y=4
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=4 y=4
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=4 y=4
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=4 y=4
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=2
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=2
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=4 y=4
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=2
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=2 y=4
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=1 y=4
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=2 y=0
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=2 y=0
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=2 y=0
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=2
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=4 y=4
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=3 y=2
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=4 y=4
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=4 y=4
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=2 y=0
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=2 y=0
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=2
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=4 y=4
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=1 y=4
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=2
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=2 y=0
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=1 y=4
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=1 y=4
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=1 y=4
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=1 y=4
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=2
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=3 y=2
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=3 y=2
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=3 y=2
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=2
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=1 y=4
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=4 y=4
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=4 y=4
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=4 y=4
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=4 y=4
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=3 y=1
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=2 y=0
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=3 y=2
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=3 y=2
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=1 y=4
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=1 y=4
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=1 y=4
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=2
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=2 y=0
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=2 y=0
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=4 y=4
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=4 y=4
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=1 y=4
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=3 y=2
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=3 y=2
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=1 y=4
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=4 y=4
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=1 y=4
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=1 y=4
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=1 y=4
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=1 y=4
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=1 y=4
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=3 y=2
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=3 y=2
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=1 y=4
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=3 y=1
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=3 y=1
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=3 y=1
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=3 y=1
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=3 y=1
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=1 y=3
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=4 y=4
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=4 y=4
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=1 y=4
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=3 y=1
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=1 y=4
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=1 y=4
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=1 y=4
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=3 y=1
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=1 y=3
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=1 y=3
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=1 y=3
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=3 y=4
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=1 y=3
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=3 y=1
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=3 y=1
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=1 y=3
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=1 y=3
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=1 y=3
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=1 y=3
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=4 y=2
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=1 y=3
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=0 y=3
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=3 y=2
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=0 y=3
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=4 y=3
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=0 y=2
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=1 y=4
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=0 y=3
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=0 y=2
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=0 y=2
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=0 y=2
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=0 y=2
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=4 y=2
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=0 y=2
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=0 y=2
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=0 y=2
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=0 y=2
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=0 y=2
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=1 y=2
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=3 y=3
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=1 y=2
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=0 y=2
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=1 y=2
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=1 y=2
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=1 y=2
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=1 y=2
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=1 y=2
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=4 y=3
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=1 y=2
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=1 y=2
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=1 y=2
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=1 y=2
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=1 y=2
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=1 y=2
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=1 y=2
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=1 y=2
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=1 y=2
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=1 y=2
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=1 y=2
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=2 y=2
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=2 y=3
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=1 y=2
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=2 y=2
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=1 y=2
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=0 y=2
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=3 y=3
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=2 y=2
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=2 y=2
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=2 y=2
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=2 y=2
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=2 y=2
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=2 y=2
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=2 y=2
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=2 y=2
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=2 y=2
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=2 y=2
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=0 y=2
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=0 y=2
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=2 y=2
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=2 y=2
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=2 y=2
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=0 y=2
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=0 y=2
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=2 y=2
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=2 y=2
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=2 y=2
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=2 y=2
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=2 y=2
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=2 y=2
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=2 y=2
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=2 y=2
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=2 y=2
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=2 y=4
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=2
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=2
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=0 y=2
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=2 y=2
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=2 y=2
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=2 y=2
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=1 y=4
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=1 y=2
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=2 y=2
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=2 y=3
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=1 y=2
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=1 y=2
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=1 y=2
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=1 y=4
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=1 y=4
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=1 y=4
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=1 y=4
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=1 y=4
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=1 y=2
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=1 y=4
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=1 y=2
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=1 y=4
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=1 y=2
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=1 y=4
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=1 y=2
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=1 y=2
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=1 y=2
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=1 y=2
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=2 y=2
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=2 y=4
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=1 y=3
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=1 y=2
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=1 y=2
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=1 y=2
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=1 y=2
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=1 y=2
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=1 y=4
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=2 y=2
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=2 y=2
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=2 y=2
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=1 y=2
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=1 y=2
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=1 y=2
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=2 y=2
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=2 y=2
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=2 y=2
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=1 y=3
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=1 y=4
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=1 y=4
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=1 y=4
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=2 y=2
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=1 y=4
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=1 y=4
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=1 y=4
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=2 y=2
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=2 y=2
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=0 y=3
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=2 y=2
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=1 y=4
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=1 y=4
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=1 y=4
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=0 y=3
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=0 y=3
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=0 y=3
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=0 y=3
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=2 y=2
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=2 y=2
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=2 y=2
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=2 y=2
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=0 y=3
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=0 y=3
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=0 y=3
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=1 y=3
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=1 y=3
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=1 y=3
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=2 y=2
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=2 y=2
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=2 y=2
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=2 y=2
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=2 y=2
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=1 y=3
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=1 y=3
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=1 y=3
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=1 y=3
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=1 y=3
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=1 y=3
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=0 y=2
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=0 y=2
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=0 y=2
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=0 y=2
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=0 y=2
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=0 y=3
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=0 y=2
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=0 y=2
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=0 y=2
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=1 y=2
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=0 y=3
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=0 y=3
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=0 y=3
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=1 y=2
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=1 y=2
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=1 y=2
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=1 y=2
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=1 y=2
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=1 y=2
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=0 y=2
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=1 y=2
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=1 y=2
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=0 y=2
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=0 y=2
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=0 y=2
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=1 y=2
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=2 y=2
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=0 y=2
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=0 y=2
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=0 y=2
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=1 y=2
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=2 y=2
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=2 y=2
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=2 y=2
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=2 y=2
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=2 y=2
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=2 y=2
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=2 y=2
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=2 y=2
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=2 y=2
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=1 y=2
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=1 y=2
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=1 y=2
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=1 y=2
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=1 y=2
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=1 y=2
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=1 y=2
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=1 y=2
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=1 y=2
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 5
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 5
+[avatar #4] Starting coordinates this turn: x=2 y=2
+
+[avatar #6] Turn ID: 5
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 5
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 5
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 5
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 5
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 5
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 5
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 6
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 6
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 6
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 6
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 6
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 7
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 6
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 7
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 5
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 7
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 7
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 8
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 6
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 6
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 7
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 8
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 6
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 8
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 7
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 6
+[avatar #4] Starting coordinates this turn: x=2 y=2
+
+[avatar #4] Turn ID: 7
+[avatar #4] Starting coordinates this turn: x=2 y=2
+
+[avatar #4] Turn ID: 8
+[avatar #4] Starting coordinates this turn: x=2 y=2
+
+[avatar #1] Turn ID: 8
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 7
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 8
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 8
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 7
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 8
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 9
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 9
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 9
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 9
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 9
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 0
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 9
+[avatar #4] Starting coordinates this turn: x=2 y=2
+
+[avatar #2] Turn ID: 0
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 7
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 8
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 9
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 0
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 1
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 1
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 1
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 0
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 9
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 0
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 1
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 2
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 2
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 2
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 3
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 2
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 3
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #5] Turn ID: 4
+[avatar #5] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 8
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #2] Turn ID: 3
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 3
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 2
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #3] Turn ID: 4
+[avatar #3] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 9
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 0
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 1
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 2
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 3
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #8] Turn ID: 4
+[avatar #8] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 9
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 0
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 1
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 2
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 3
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #6] Turn ID: 4
+[avatar #6] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 1
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 2
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 3
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #9] Turn ID: 4
+[avatar #9] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 2
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 3
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #0] Turn ID: 4
+[avatar #0] Starting coordinates this turn: x=2 y=1
+
+[avatar #7] Turn ID: 4
+[avatar #7] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 0
+[avatar #4] Starting coordinates this turn: x=2 y=2
+
+[avatar #4] Turn ID: 1
+[avatar #4] Starting coordinates this turn: x=2 y=2
+
+[avatar #2] Turn ID: 4
+[avatar #2] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 3
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #1] Turn ID: 4
+[avatar #1] Starting coordinates this turn: x=2 y=1
+
+[avatar #4] Turn ID: 2
+[avatar #4] Starting coordinates this turn: x=2 y=2
+
+[avatar #4] Turn ID: 3
+[avatar #4] Starting coordinates this turn: x=2 y=2
+
+[avatar #4] Turn ID: 4
+[avatar #4] Starting coordinates this turn: x=2 y=2
+
+WINNER! nAvatars: 10 Difficulty: 0 nMoves: 214 Hash: 1405435071
+

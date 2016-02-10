@@ -1,0 +1,69 @@
+williammcc, 35058, Sat Aug 29 10:25:07 2015
+
+*****************
+ Maze Width: 12
+ Maze Height: 10
+*****************
+
+The maze structure lives at: 0x1f880a0
+
+=========================================
+AVATAR #0
+difficulty: 2
+IP_address: 129.170.213.200
+port: 35058
+log_file: ./results/Amazing_williammcc_2_2.log
+sockfd: 4
+total number of avatars: 2
+maze width: 12
+maze height: 10
+my pointer to the_maze: 0x1f880a0
+=========================================
+
+=========================================
+AVATAR #1
+difficulty: 2
+IP_address: 129.170.213.200
+port: 35058
+log_file: ./results/Amazing_williammcc_2_2.log
+sockfd: 5
+total number of avatars: 2
+maze width: 12
+maze height: 10
+my pointer to the_maze: 0x1f880a0
+=========================================
+
+[avatar #0] Successfully connected with the server and received the first TURN message
+[avatar #0] First Turn ID (should be zero): 0
+[avatar #0] Initial Coordinates: x=4 y=9
+
+[avatar #1] Successfully connected with the server and received the first TURN message
+[avatar #1] First Turn ID (should be zero): 0
+[avatar #1] Initial Coordinates: x=3 y=7
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=4 y=9
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=3 y=7
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=3 y=7
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=3 y=9
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=3 y=9
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=3 y=7
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=3 y=8
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=3 y=7
+
+WINNER! nAvatars: 2 Difficulty: 2 nMoves: 3 Hash: 4189164812
+

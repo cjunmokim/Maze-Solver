@@ -1,0 +1,144 @@
+
+
+           AA             MMMMMMM           MMMMMMM
+          AAAA            MMMMMMMM         MMMMMMMM
+         AAAAAA           MMMM MMMM       MMMM MMMM
+        AAAAAAAA          MMMM  MMMM     MMMM  MMMM
+       AAAA  AAAA         MMMM   MMMM   MMMM   MMMM
+      AAAA    AAAA        MMMM    MMMM MMMM    MMMM
+     AAAA      AAAA       MMMM     MMMMMMM     MMMM
+    AAAAAAAAAAAAAAAA      MMMM      MMMMM      MMMM
+   AAAAAAAAAAAAAAAAAA     MMMM       MMM       MMMM
+  AAAA            AAAA    MMMM                 MMMM
+ AAAA              AAAA   MMMM                 MMMM
+AAAA                AAAA  MMMM                 MMMM
+
+
+Welcome to the AMAZING MAZE!
+
+README
+
+Authors: Nick Schwartz, Caleb Kim, Will McConnell
+
+The Amazing Maze is a client server program for which the above authors wrote
+the client side application.
+
+The purpose of the program is the generation and solving of a maze. The server
+side application generates a maze that the client side cannot see, and the
+client side application tries to solve it. The maze has a certain number of
+avatars in it, and the maze is considered solved when all of the avatars have
+reached the same spot in the maze.
+
+BUT WATCH OUT! The avatars only get a limited number of moves to find each
+other! The client side application therefore must make intelligent decisions
+about how to solve the maze in order for the avatars to be reunited.
+
+Files and Directories:
+-project
+	Makefile
+	README
+	AM_Design_Specs.pdf
+	BATS.sh
+	*A BATS.sh results log*
+	maze_runner
+	testing
+	-src
+		amazing.h
+		AMStartup.c
+		file.c
+		file.h
+		list.c
+		list.h
+		maze.c
+		maze.h
+		maze_array.c
+		move.c
+	-results
+		*log files from runs done by BATS.sh*		
+	-test
+		unit_test.c
+
+File Descriptions:
+	Makefile - Builds (and cleans) the source code. Result of the build is and
+	           an executable called 'maze_runner' in the project directory
+
+	README - This file!
+	
+	AM_Design_Specs.pdf - Design specification documents for the client side
+	                      maze application.
+
+	BATS.sh - A bash script that makes a clean build of the executable and runs
+	          unit testing on it. This script outputs a log.
+
+	maze_runner - The actual amazing maze executable.
+
+	testing - The unit testing executable.
+
+	amazing.h - A handy header file containing tons of constants, macros, and
+	            structs needed for interacting with the server
+	
+	AMStartup.c - Makes the initial connection with the server and starts up
+	              the avatars
+	
+	file.c / file.c - Contains a function to check if a directory exists
+	
+	list.c / list.h - Contains structs and functions for the implementation
+	                  of a linked list
+	
+	maze.c - Holds the code that runs the avatars
+	
+	maze_array.c - Contains functions for the Maze data structure (see design
+	               documentation)
+	
+	maze.c - Contains the function that actually controls the avatars
+	
+	move.c - Contains functions that make the avatar's decision about how to
+	         move
+
+	maze.h - Contains structs and function prototypes
+
+	unit_test.c - Code that will unit test the amazing maze. Note that this
+		      is compiled into an executable called "testing" that is
+		      in the top level directory when compiled.
+
+How to build and run maze_runner:
+	Calling 'make' in the project directory will build the directory, and
+	calling 'make clean' will wipe the .o files and the maze_runner executable.
+	
+	Once maze_runner has been built, it can be executed with the following
+	command line:
+	
+	./maze_runner [NUMBER OF AVATARS] [DIFFICULTY] [SERVER NAME]
+	
+	[NUMBER OF AVATARS] - An integer between 2 and 10 for the number of avatars
+	in the maze.
+	
+	[DIFFICULTY] - An integer from 0 to 9 for how hard the maze should be.
+	
+	[SERVER NAME] - The server on which the server side application is running.
+	
+	The user can also build the program with the BATS.sh script. This script
+	will build the program for use and then run unit testing on it to make sure
+	the program was built correctly and is running correctly. The BATS.sh
+	script, and the unit testing that it calls unit_test.c to perform, will
+	output a log for the user to read, so that the user can see if the building
+	and testing was successful. BATS.sh also runs 30 tests of valid maze runs
+	to see if the maze itself is working on different levels.
+	
+	The following command line will execute the BATS.sh script:
+	
+	./BATS.sh
+
+Assumptions:
+	-The number of avatars must be a valid integer between 2 and 10, inclusive.
+	-The difficulty must be a valid integer between 0 and 9, inclusive.
+	-The server name must be a valid string containing the name of a server on
+	 which the server side application for the Amazing Maze is running. If no
+	 connection can be made to the server for some reason, the program will
+	 fail.
+	-If at any point there is an issue where a connection with the server is
+	 broken, then the program will exit with an error
+	-The user must have an internet connection in order to connect with the
+	 server
+	-There must be a subdirectory in the project directory called "results."
+	 The application will fail if this directory does not exist

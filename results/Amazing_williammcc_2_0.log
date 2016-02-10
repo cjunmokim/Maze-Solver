@@ -1,0 +1,165 @@
+williammcc, 32947, Sat Aug 29 01:12:09 2015
+
+*****************
+ Maze Width: 5
+ Maze Height: 5
+*****************
+
+The maze structure lives at: 0xc6b0a0
+
+=========================================
+AVATAR #0
+difficulty: 0
+IP_address: 129.170.213.200
+port: 32947
+log_file: ./results/Amazing_williammcc_2_0.log
+sockfd: 4
+total number of avatars: 2
+maze width: 5
+maze height: 5
+my pointer to the_maze: 0xc6b0a0
+=========================================
+
+=========================================
+AVATAR #1
+difficulty: 0
+IP_address: 129.170.213.200
+port: 32947
+log_file: ./results/Amazing_williammcc_2_0.log
+sockfd: 5
+total number of avatars: 2
+maze width: 5
+maze height: 5
+my pointer to the_maze: 0xc6b0a0
+=========================================
+
+[avatar #0] Successfully connected with the server and received the first TURN message
+[avatar #0] First Turn ID (should be zero): 0
+[avatar #0] Initial Coordinates: x=0 y=2
+
+[avatar #1] Successfully connected with the server and received the first TURN message
+[avatar #1] First Turn ID (should be zero): 0
+[avatar #1] Initial Coordinates: x=3 y=2
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=0 y=2
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=0 y=4
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=3 y=2
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=4 y=2
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=0 y=4
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=0 y=4
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=4 y=2
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=4 y=3
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=0 y=4
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=4 y=3
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=3 y=3
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=0 y=3
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=3 y=3
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=1 y=3
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=1 y=4
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=2 y=4
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=3
+
+[avatar #1] Turn ID: 0
+[avatar #1] Starting coordinates this turn: x=2 y=4
+
+[avatar #0] Turn ID: 0
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #0] Turn ID: 1
+[avatar #0] Starting coordinates this turn: x=3 y=4
+
+[avatar #1] Turn ID: 1
+[avatar #1] Starting coordinates this turn: x=2 y=4
+
+WINNER! nAvatars: 2 Difficulty: 0 nMoves: 19 Hash: 2042612152
+

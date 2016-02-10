@@ -1,0 +1,157 @@
+Built by Tom Petty and The HashTables on MacOS 10.10.3
+Start testing query
+
+
+rm -f ./src/*~
+rm -f ./src/*#
+rm -f ./src/*.o
+rm -f maze_runner
+rm -f testing
+cc    -c -o src/AMStartup.o src/AMStartup.c
+cc    -c -o src/maze.o src/maze.c
+cc    -c -o src/list.o src/list.c
+cc    -c -o src/move.o src/move.c
+cc    -c -o src/maze_array.o src/maze_array.c
+cc    -c -o src/file.o src/file.c
+gcc -Wall -pedantic -std=c11 -o maze_runner ./src/AMStartup.o ./src/maze.o ./src/list.o ./src/move.o ./src/maze_array.o ./src/file.o -lpthread
+gcc -Wall -pedantic -std=c11 -o testing ./test/unit_test.o ./src/maze_array.o ./src/list.o ./src/move.o
+Build maze_runner successfully
+
+
+Unit testing
+
+
+testing
+Test Test Case 1 passed
+Test Test Case 2 passed
+Test Test Case 3 passed
+Test Test Case 4 passed
+Test Test Case 5 passed
+Error, location is null!
+Test Test Case 6 passed
+Test Test Case 7 passed
+Test Test Case 8 passed
+Null's Passed!
+Test Test Case 9 passed
+Test Test Case 10 passed
+Error, location is null!
+Test Test Case 11 passed
+All Passed!
+
+
+Maze Runs
+
+
+Invalid Arguments
+
+
+maze_runner 2 1 pierce g
+Please input three parameters exactly.
+Usage: ./AMStartup [nAvatars] [Difficulty] [Hostname]
+
+
+maze_runner 2 1 pierce1
+ERROR: Bad host name
+
+
+maze_runner 11 1 pierce
+Must have between two and ten avatars.
+
+
+maze_runner 2 15 pierce
+Difficulty must be between 0 and 9.
+
+
+Valid Runs: Written to Results Directory
+
+
+maze_runner 2 0 pierce
+
+	
+maze_runner 5 0 pierce
+
+	
+maze_runner 8 0 pierce
+
+	
+maze_runner 2 1 pierce
+
+	
+maze_runner 5 1 pierce
+
+	
+maze_runner 8 1 pierce
+
+	
+maze_runner 2 2 pierce
+
+	
+maze_runner 5 2 pierce
+
+	
+maze_runner 8 2 pierce
+
+	
+maze_runner 2 3 pierce
+
+	
+maze_runner 5 3 pierce
+
+	
+maze_runner 8 3 pierce
+
+	
+maze_runner 2 4 pierce
+
+	
+maze_runner 5 4 pierce
+
+	
+maze_runner 8 4 pierce
+
+	
+maze_runner 2 5 pierce
+
+	
+maze_runner 5 5 pierce
+
+	
+maze_runner 8 5 pierce
+
+	
+maze_runner 2 6 pierce
+
+	
+maze_runner 5 6 pierce
+
+	
+maze_runner 8 6 pierce
+
+	
+maze_runner 2 7 pierce
+
+	
+maze_runner 5 7 pierce
+
+	
+maze_runner 8 7 pierce
+
+	
+maze_runner 2 8 pierce
+
+	
+maze_runner 5 8 pierce
+
+	
+maze_runner 8 8 pierce
+
+	
+maze_runner 2 9 pierce
+
+	
+maze_runner 5 9 pierce
+
+	
+maze_runner 8 9 pierce
+
+	
